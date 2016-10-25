@@ -1,0 +1,118 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Remove Branding for Yoast SEO"
+msgstr ""
+
+#. Short description.
+msgid "Remove the Yoast SEO plugin branding, and hide installed plugins from non-admin users."
+msgstr ""
+
+#. Screenshot description.
+msgid "The slick plugin settings panel."
+msgstr ""
+
+#. Found in description list item.
+msgid "Hide this plugins and Yoast SEO plugins from non admin users."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes sidebar ads on Yoast SEO settings pages."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO plugins updated notification."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO all notification."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO intro tour."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO plugins admin menu for non admin users."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO settings from the admin bar."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO meta box on edit page."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO dashboard widget."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO score traffic light on edit page."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO page analysis columns on the administration screens for post(types)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Removes Yoast SEO version from header."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin is a quick way to remove almost brainding of Yoast SEO on your site. This is useful when you need a completely brandless setup. This will be updated as Yoast SEO plugin changes."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Major features in this plugin include:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin was created by SuitPress - http://suitpress.com"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>plugin-name.php</code> to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Configure using the plugin menu under Settings in your admin page."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Upload the this plugin to your blog, Activate it."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "e.g."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed capability administrator &gt; manage_options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some minor issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a option to settings page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release. We will be upgrading periodically for security and functionality improvements."
+msgstr ""
+
+#. Found in faq header.
+msgid "I have an issue with this plugin, where can I get support?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Please open an issue on Github."
+msgstr ""
